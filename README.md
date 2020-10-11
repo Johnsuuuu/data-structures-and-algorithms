@@ -1,5 +1,5 @@
-## Data Structures & Algorithms
-### [Data Structures](data_structure.ipynb)
+# Data Structures & Algorithms
+## [Data Structures](data_structure.ipynb)
 - Array
 - Linked List
 - Stack
@@ -32,3 +32,19 @@
     - Dijkstra's algorithm
   - shortest path between all the pairs of vertices
     - Floyd-Warshall algorithm
+    
+## [Algorithms](algorithm.ipynb)
+- Sorting
+  - Selection Sort
+  - Bubble Sort
+  - Insertion Sort
+  - Shell Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+  - Counting Sort
+
+
+
+
+
