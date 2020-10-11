@@ -2,5 +2,24 @@
 ### [Data Structures](data_structure.ipynb)
 - Array
 - Linked List
-* Stack
-* Queue
+- Stack
+- Queue
+  - Circular Queue
+  - Deque
+- Tree
+  - Binary Tree
+  - Binary Search Tree
+  - AVL Tree
+  - Red-Black Tree
+  - Huffman Tree
+- Heap
+- Trie
+- Union-Find
+- Hash Table
+- Graph
+  - Adjacency Matrix
+  - Adjacency List
+  - DFS
+  - BFS
+  - Minimum Spanning Tree
+    - Prim's algorithm
