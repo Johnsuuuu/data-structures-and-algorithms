@@ -23,3 +23,12 @@
   - BFS
   - Minimum Spanning Tree
     - Prim's algorithm
+    - Kruskal's algorithm
+  - Topological sorting
+  - Critical Path
+  - Maximum Flow
+    - Edmonds Karp's algorithm
+  - shortest path between any two vertices
+    - Dijkstra's algorithm
+  - shortest path between all the pairs of vertices
+    - Floyd-Warshall algorithm
