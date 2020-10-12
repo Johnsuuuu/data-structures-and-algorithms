@@ -43,6 +43,10 @@
   - Quick Sort
   - Heap Sort
   - Counting Sort
+  - Bucket Sort
+- Searching
+  - Linear Search
+  - Binary Search
 
 
 
