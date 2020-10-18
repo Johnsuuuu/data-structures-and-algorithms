@@ -8,9 +8,11 @@
   - Deque
 - Tree
   - Binary Tree
+    - Tree Traversal
   - Binary Search Tree
   - AVL Tree
   - Red-Black Tree
+  - B-tree 
   - Huffman Tree
 - Heap
 - Trie
