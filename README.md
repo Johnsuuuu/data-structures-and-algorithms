@@ -49,6 +49,12 @@
 - Searching
   - Linear Search
   - Binary Search
+- Greedy
+  - Change-making Problem
+  - Fractional Knapsack Problem
+  - Job Sequencing Problem
+- Divide and Conquer
+  - Closest Pair of Points
 
 
 
