@@ -55,6 +55,8 @@
   - Job Sequencing Problem
 - Divide and Conquer
   - Closest Pair of Points
+  - Longest Common Prefix
+  - Maximum and minimum of an array using minimum number of comparisons
 
 
 
