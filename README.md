@@ -54,6 +54,7 @@
     - BF Algorithm
     - Finite-Automata Algorithm
     - KMP Algorithm
+  - Wildcard Pattern Matching
   - Longest Palindromic Substring
     - Manacher Algorithm
 - Greedy
