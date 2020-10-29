@@ -49,6 +49,13 @@
 - Searching
   - Linear Search
   - Binary Search
+- String-Based Algorithms
+  - Pattern Matching
+    - BF Algorithm
+    - Finite-Automata Algorithm
+    - KMP Algorithm
+  - Longest Palindromic Substring
+    - Manacher Algorithm
 - Greedy
   - Change-making Problem
   - Fractional Knapsack Problem
@@ -58,6 +65,10 @@
   - Longest Common Prefix
   - Maximum and minimum of an array using minimum number of comparisons
   - Convex-Hull Problem
+- Dynamic Programming
+  - 0-1 Knapsack Problem
+  - Longest Common Substring
+  - Longest Common Subsequence
 
 
 
