@@ -57,6 +57,7 @@
   - Wildcard Pattern Matching
   - Longest Palindromic Substring
     - Manacher Algorithm
+  - Edit Distance
 - Greedy
   - Change-making Problem
   - Fractional Knapsack Problem
