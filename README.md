@@ -16,6 +16,7 @@
   - Huffman Tree
 - Heap
 - Trie
+- Suffix Tree
 - Union-Find
 - Hash Table
 - Graph
