@@ -72,7 +72,8 @@
   - 0-1 Knapsack Problem
   - Longest Common Substring
   - Longest Common Subsequence
-
+  - Coin-Row Problem
+  - Coin-Collecting Problem
 
 
 
