@@ -74,6 +74,9 @@
   - Longest Common Subsequence
   - Coin-Row Problem
   - Coin-Collecting Problem
+- Backtracking
+  - Rat in a Maze
+  - The Knight’s Tour Problem
 
 
 
