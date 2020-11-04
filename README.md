@@ -77,6 +77,8 @@
 - Backtracking
   - Rat in a Maze
   - The Knight’s Tour Problem
+  - Subset-Sum Problem
+  - Hamiltonian-Circuit Problem
 
 
 
