@@ -80,6 +80,8 @@
   - The Knight’s Tour Problem
   - Subset-Sum Problem
   - Hamiltonian-Circuit Problem
+  - N-Queens Problem
+  - Travelling Salesman
 
 
 
